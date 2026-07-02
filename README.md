@@ -11,5 +11,9 @@ This study interrogates patterns of interaction through which corporate actors i
 This repository contains the following:
 
 - 3 pre-processing `.R` files for consultation only (`pre1_entity.R`, `pre2_network.R`, `pre3_remdata.R`)
-- 1 data file (`sdtrem.csv`)
 - 1 `.R` file that can be run by users (`1_models.R`) using the data file
+
+## Data
+
+The dataset for this code (`sdtrem.csv`, 370MB) is available on Zenodo: https://doi.org/10.5281/zenodo.21136160. 
+Download it and place it in the repository root before running `1_models.R`.
